@@ -9,24 +9,23 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
-show_frame: false           # adds a gray frame to the site
+show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Blog.md", title: "Blog"}
+  - {file: "Index.html", title: "Home"}
   - {file: "README.md", title: "About/Contact"}
-  - {file: "index.html", title: "None"}
+  - {file: "Archive.md", title: "Archive"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "lobstersister@protonmail.com"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/ahumanlobster/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/a_human_lobster"}
-  - {title: Substack, icon: post, url: ""}
+  - {title: Substack, icon: post, url: "https://meishaonvzhanshi.substack.com"}
      
 
 comments:
