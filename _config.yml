@@ -17,15 +17,16 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About/Contact", icon: name card}
+  - {file: "README.md", title: "About", icon: name card}
   - {file: "Archive.md", title: "Archive", icon: archive}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:lobstersister@protonmail.com"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/ahumanlobster/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/a_human_lobster"}
-  - {title: Substack, icon: post, url: "https://meishaonvzhanshi.substack.com"}
+  - {title: Substack, icon: blog, url: "https://meishaonvzhanshi.substack.com"}
      
 
 comments:
