@@ -22,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "ahumanlobster@protonmail.com"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
-  - {title: Instagram, icon: <i class="fa-brands fa-instagram-square"></i>, url: "https://www.instagram.com/ahumanlobster/"}
-  - {title: Twitter, icon: <i class="fa-brands fa-twitter-square"></i>, url: "https://twitter.com/a_human_lobster"}
+  - {title: Instagram, icon: bird, url: "https://www.instagram.com/ahumanlobster/"}
+  - {title: Twitter, icon: photo, url: "https://twitter.com/a_human_lobster"}
      
 
 comments:
