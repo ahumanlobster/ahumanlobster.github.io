@@ -10,7 +10,3 @@ title: "Blog"
 {% endif %}
 
 
-
-An ex-lawyer who now write about art, international relations, and investment. 
-
--{title: "坂本龙一" ,url: "https://meishaonvzhanshi.substack.com/p/311"}
