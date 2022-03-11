@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Blog"}
+  - {file: "Blog.md", title: "Blog"}
   - {file: "README.md", title: "About Me"}
+  - {file: "index.html", title: "None"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -25,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/ahumanlobster/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/a_human_lobster"}
-  - {title: Substack, icon: blog, url: ""}
+  - {title: Substack, icon: post, url: ""}
      
 
 comments:
