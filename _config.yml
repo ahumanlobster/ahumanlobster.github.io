@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/ahumanlobster/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/a_human_lobster"}
-  - {title: Substack, icon: substack, url: ""}
+  - {title: Substack, icon: blog, url: ""}
      
 
 comments:
