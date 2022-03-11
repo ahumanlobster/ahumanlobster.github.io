@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "ahumanlobster@protonmail.com"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Instagram, icon: bird, url: "https://www.instagram.com/ahumanlobster/"}
-  - {title: Twitter, icon: photo, url: "https://twitter.com/a_human_lobster"}
+  - {title: Twitter, icon: camera, url: "https://twitter.com/a_human_lobster"}
      
 
 comments:
