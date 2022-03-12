@@ -18,7 +18,7 @@ layout: page
 
 * A lawyer by training, an artist by heart.
 * My belief: you don't need a brush to be an artist. All you need is perspective. 
-* Right now, I'm exploring my own art language. Writing is one of them, but there can be so many more. 
+* Right now, I'm exploring my own form of art expression. Writing is one of them, but there can be so many more.
 * I write to learn and clear my mind. Curiosity is my primary fuel. 
 * [Paul Graham](http://www.paulgraham.com), [Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son), [Oki Sato](https://www.nendo.jp/en/) and [MC Escher](https://mcescher.com) have been my biggest intellectual influences so far. 
 
