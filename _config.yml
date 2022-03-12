@@ -1,4 +1,4 @@
-title: "A Human Lobster"
+title: "A Human Lobster 龙虾人"
 author: "Lobsterx"
 description: "A place to upload my mind"
 permalink: /:title/
@@ -16,17 +16,17 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
-  - {file: "README.md", title: "About", icon: human}
-  - {file: "archive.html", title: "Archive", icon: archive}
+  - {file: "index.html", title: "Home 首页", icon: home}
+  - {file: "README.md", title: "About 关于", icon: id-card}
+  - {file: "archive.html", title: "Archive 历史文章", icon: archive}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-  - {title: Mail, icon: envelope, url: "mailto:lobstersister@protonmail.com"}
+  - {title: Subscribe 订阅, icon: rss, url: "/feed.xml"}
+  - {title: Mail 邮件, icon: envelope, url: "mailto:lobstersister@protonmail.com"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/ahumanlobster/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/a_human_lobster"}
-  - {title: Substack, icon: blog, url: "https://meishaonvzhanshi.substack.com"}
+
      
 
 comments:
