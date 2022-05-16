@@ -16,7 +16,7 @@ I intend to write till the day I die. This website is used to upload my mind. I 
 
 * A lawyer by training, an artist by heart.
 * I grew up in different cultures, and learned to survive as a minority at a very young age. 
-* As such, I resonate strongly with Ai Weiwei's quote,  "*the world is a sphere, there is no East or West*" - regardless of its sarcastic connotation.
+* As such, I resonate strongly with Ai Weiwei's quote,  "*the world is a sphere, there is no East or West*" - in spite of its sarcastic connotation.
 * I also believe that having a brush in hand doesn't necessarily make you an artist. Perspective distinguishes the best artist from the good. 
 * Right now, I'm working on figuring out my own form of art expression. Writing is one of them, but there can be so many more. 
 * I write to learn and clear my mind most of the time. Curiosity is my primary fuel. 
